@@ -2,7 +2,7 @@
 
 ## What is closures?
 
-Closures is a  function having access to the parent scope, even after the parent function has closed.
+Ans: Closures is a  function having access to the parent scope, even after the parent function has closed.
 
 
 # What you need to know to understand closures.
